@@ -1,0 +1,107 @@
+PROCESS ADHERENCE IN PSD
+
+Process Adherence is crucial for iQuasar to stay on the right track. Team Members should follow the  
+process religiously. In order to do the work effectively and efficiently we need to make sure that all the processes are followed and there is an optimum utilization of tools and resources available at our disposal.
+
+Importance of Process Adherence
+
+Process adherence is crucial for the smooth functioning and success of any organization or endeavor. It refers to the consistent adherence to predefined processes, procedures, and protocols established within an organization. Here are some key reasons why process adherence is important:
+
+Consistency and Quality: Adhering to established processes ensures consistency in the delivery of services. When processes are followed consistently, it becomes easier to maintain quality standards. It helps in avoiding errors, reducing defects, and ensuring that the desired outcome is achieved consistently.
+
+Efficiency and Productivity: Well-defined processes provide a clear roadmap for performing tasks. By adhering to these processes, employees can streamline their work, eliminate unnecessary steps, and identify bottlenecks or areas for improvement. This leads to increased efficiency and productivity, as time and effort are focused on tasks that add value rather than on figuring out how to perform them.
+
+Knowledge Transfer and Continuity: Process adherence facilitates knowledge transfer within an organization. When processes are well-documented and consistently followed, it becomes easier for new employees to understand how things are done. It also ensures continuity in operations, even when key personnel change or are absent, as others can follow established processes to carry out tasks effectively.
+
+Customer Satisfaction: Consistently adhering to processes can have a direct impact on customer satisfaction. When customers receive services that meet their expectations consistently, they develop trust in the organization. Adherence to processes ensures that customers experience a standardized level of quality and service, leading to increased satisfaction and loyalty.
+
+Continuous Improvement: Process adherence provides a foundation for continuous improvement initiatives. By consistently following processes, organizations can gather data and metrics that can be used to identify areas for improvement. It enables organizations to evaluate the effectiveness of processes, make necessary adjustments, and drive ongoing improvement efforts.
+Overall, process adherence is essential for achieving operational excellence, maintaining quality standards, and delivering consistent customer experiences. It fosters efficiency, productivity, and continuous improvement, ultimately contributing to the success and growth of an organization.
+
+Following are the requisites for PSD that we need to follow consistently to avoid any hamper in our work:
+
+Candidate ownership-  
+
+An important component of the PSD-RPLC life cycle is our candidate ownership process. Team members should be vigilant while using Ceipal.
+
+Here is the link to the document that will give us the guidelines for the candidate ownership cycle in PSD:
+
+Candidate Ownership Process on Ceipal 
+
+Notes- 
+
+Notes are essential for us as we have multiple recruiters working for different clients with the same positions. Sometimes it can become a conflict of interest if the same candidate is submitted to two different clients, which is why we have introduced a guideline for using Ceipal that will avoid the conflict.
+Here is the link to the document :
+Candidate Ownership Process on Ceipal 
+
+Basecamp-
+
+Basecamp is our dominant communication tool, and it is critical to use it effectively in order to become more productive and make the rest of the PSD team more effective. It is an important tool to streamline our process and keep all the information under one roof.
+
+These check-ins are helpful as they keep our team leads, specialists, managers, and other TMs aware of the requisitions and the involvement of team members in different projects. Example: If there is a team member who is working on systems engineer and is struggling with it, he or she can check these daily check-ins and see if there is any other team member working on the same position. This will minimize the time spent by a team member asking for help from each of them and allow them to directly reach out to the right person.
+
+Resume Parsing- 
+
+Team members must upload each and every resume that they receive from different job boards like Dice, Monster, Indeed, CB, Clearance Jobs, US Tech Vets, ZipRecruiter, Workforce Portals, LinkedIn, and Referrals.
+
+Team members should upload these resumes on a real-time basis. They should mention the source from which they got the resume.
+
+Team members should always check if the resumes are in Word format. If not, they should convert it and then upload it on Ciepal.
+
+Team members should always select the most recent resume as the "default one" to ease the process.
+
+Also, there is a predefined process for parsing resumes that we receive from Clearance Jobs or doing the bulk parsing that we need to follow.
+
+Here are the links to the documents;
+
+Bulk Doc to Docx conversion.docx
+
+Bulk Doc to Docx Resume Conversion Process..docx
+
+Job postings -
+
+It is mandatory for all team members to follow our job posting guidelines and format.
+
+Here is the link to the documents that will help us understand the steps that we need to follow for     
+ job postings.
+Job Posting Guidelines
+Job Posting Template
+Job Posting Owners
+
+Candidate/Client Communication-
+
+There are various dos and don'ts that we need to follow while having client or candidate communication. Here is the document that can help TMs understand the importance of both and how to handle difficult conversations.
+Here is the link to the document:
+
+How to Handle Difficult candidates /situations with the candidates and clients
+
+Weekly Notes-
+
+It is crucial for team members to put a weekly client note every Thursday to keep the stakeholders informed about the current status of the client. The client note should be detailed and well-written so that the CSM and management will get all the information required from the note. Team members should be vigilant while selecting the priority (low, medium, or high) based on the situation. In case a team member is not able to put a client note on Thursday, He should put the note on the next working day or the prior working day, whichever is feasible.
+
+Please note that the client note should be as per the prescribed template, and the right person should be tagged in it.
+
+Client Monthly Progress Report-
+
+Team members should create the monthly progress report at the end of every month and complete it by the first of the next month. The report must be reviewed by the manager and the respective CSM POC for the client. Then the manager will send it to the client by the end of the first week of the month.
+
+Consequences of not following the process:
+
+Not following a process can have various consequences depending on the specific situation and context. Here are some potential consequences that may arise from not following a process:
+Inefficiency and delays: Processes often streamline workflows and maximize efficiency. When individuals deviate from the process, it can disrupt the flow and result in inefficiencies. Tasks may take longer to complete, deadlines may be missed, and overall productivity may suffer.
+
+Lack of accountability: Processes often establish clear responsibilities and accountability for each step or role involved. When individuals deviate from the process, it becomes difficult to identify who is responsible for specific actions or outcomes. This lack of accountability can lead to confusion, finger-pointing, and a breakdown in teamwork.
+
+Missed opportunities for improvement: Processes are often refined over time to optimize performance and outcomes. When individuals ignore or bypass established processes, valuable feedback and insights that could contribute to process improvement are lost. This can hinder the organization's ability to innovate, adapt, and achieve continuous improvement.
+
+Negative impact on customer satisfaction: Processes often aim to provide consistent and reliable service to customers. When individuals deviate from the process, it can result in inconsistencies, delays, or mistakes that negatively impact customer satisfaction. Dissatisfied customers may take their business elsewhere, leading to lost revenue and damage to the organization's reputation.
+
+Actions to be taken if the process is not followed:
+
+Initial warning: The first step in addressing non-adherence with the process could be a verbal warning, which serves as a reminder of the importance of the process and the consequences of not adhering to it. The incident should be documented in Zoho by the team member.
+
+Retraining: Team members who struggle to adhere to a process may benefit from additional training or support to help them understand the process and their role in it.
+
+Written warning: If the employee continues to disregard the process after a verbal warning and Zoho documentation, a written warning may be issued, documenting the non-compliance, copying HR, and outlining the consequences of future violations.
+
+It is important to note that processes exist for good reasons, and deviating from them without proper justification can lead to undesirable consequences.
