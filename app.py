@@ -17,7 +17,7 @@ import random
 from flask_mail import Mail, Message
 
 # Initialize Flask app and configure it
-app = Flask(__name__)
+app = Flask(__name__, template_folder='')
 app.config['SECRET_KEY'] = 'KZ15igLRGYgNv9CtBu_Cqm8eDKN9eAMmA6v0'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
 app.config['MAIL_SERVER'] = 'smtp.office365.com'
@@ -181,7 +181,7 @@ def get_text():
         results = searcher.search(query)
         if results:
             first_result = results[0]
-            docx_path = os.path.join("data_repository_search_engine/data", first_result['title'])
+            docx_path = os.path.join("data", first_result['title'])
             document_content = docx2txt.process(docx_path)
             return jsonify({'content': document_content})
         else:
