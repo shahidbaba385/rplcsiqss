@@ -64,7 +64,7 @@ def login():
 
         if user and check_password_hash(user.password_hash, password):
             login_user(user)
-            return redirect(url_for('index'))
+            return redirect(url_for('index.html'))
         else:
             flash('Invalid username or password', 'danger')
 
@@ -74,13 +74,13 @@ def login():
 @login_required
 def logout():
     logout_user()
-    return redirect(url_for('login'))
+    return redirect(url_for('login.html'))
 
 # Define route for registration
 @app.route('/register', methods=['GET', 'POST'])
 def register():
     if current_user.is_authenticated:
-        return redirect(url_for('index'))
+        return redirect(url_for('index.html'))
 
     if request.method == 'POST':
         username = request.form['username']
@@ -90,7 +90,7 @@ def register():
         existing_user = User.query.filter_by(username=username).first()
         if existing_user:
             flash('Username already exists. Please choose a different username.', 'danger')
-            return redirect(url_for('register'))
+            return redirect(url_for('register.html'))
 
         # Generate a random 6-digit verification code
         verification_code = str(random.randint(100000, 999999))
@@ -150,7 +150,7 @@ def verify(username):
             db.session.commit()
 
             flash('Verification successful! You can now log in.', 'success')
-            return redirect(url_for('login'))
+            return redirect(url_for('login.html'))
         else:
             flash('Invalid verification code. Please try again.', 'danger')
 
