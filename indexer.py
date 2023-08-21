@@ -47,7 +47,7 @@ for doc_path in word_documents:
 
 # Index text files
 text_files = [
-    "data/Text/Importance of Process Adherence.txt",
+    "Importance of Process Adherence.txt",
     # Add other text file paths here
 ]
 
