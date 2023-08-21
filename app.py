@@ -190,7 +190,7 @@ def get_text():
 
 
 # Update app.py
-TEXT_FILES_DIR = "data_repository_search_engine/data/Text"
+TEXT_FILES_DIR = ""
 
 @app.route('/search_keywords')
 def search_keywords():
