@@ -25,17 +25,17 @@ tokenizer = RegexTokenizer()
 
 # Index your Word documents
 word_documents = [
-    "data_repository_search_engine/data/Actions to be taken if the process is not followed.docx",
-    "data_repository_search_engine/data/Basecamp.docx",
-    "data_repository_search_engine/data/Candidate and Client Communication.docx",
-    "data_repository_search_engine/data/Candidate Notes.docx",
-    "data_repository_search_engine/data/Consequences of not following the process.docx",
-    "data_repository_search_engine/data/job postings.docx",
-    "data_repository_search_engine/data/monthly report.docx",
-    "data_repository_search_engine/data/Process Adherence Full Document.docx",
-    "data_repository_search_engine/data/PROCESS ADHERENCE IN PSD.docx",
-    "data_repository_search_engine/data/resume parsing.docx",
-    "data_repository_search_engine/data/weekly notes.docx",
+    "data/Actions to be taken if the process is not followed.docx",
+    "data/Basecamp.docx",
+    "data/Candidate and Client Communication.docx",
+    "data/Candidate Notes.docx",
+    "data/Consequences of not following the process.docx",
+    "data/Job postings.docx",
+    "data/monthly report.docx",
+    "data/Process Adherence Full Document.docx",
+    "data/PROCESS ADHERENCE IN PSD.docx",
+    "data/resume parsing.docx",
+    "data/weekly notes.docx",
    
     # Add other document paths here
 ]
@@ -47,7 +47,7 @@ for doc_path in word_documents:
 
 # Index text files
 text_files = [
-    "data_repository_search_engine/data/Text/Importance of Process Adherence.txt",
+    "data/Text/Importance of Process Adherence.txt",
     # Add other text file paths here
 ]
 
